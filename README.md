@@ -52,3 +52,7 @@ Entrega
 Se deberá pegar el link a tu repositorio de Github/Gitlab en el que haya un archivo (.ipynb o.py) con todo el código escrito y un archivo .csv con las predicciones de tu modelo.
 Vulcan_RF_model.ipynb
 predict_results.csv
+
+To instal enviroment use:
+
+conda env create -f environment.yml 
